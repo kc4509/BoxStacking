@@ -1,0 +1,15 @@
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\bin\Debug\net6.0\BoxStacking.exe
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\bin\Debug\net6.0\BoxStacking.deps.json
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\bin\Debug\net6.0\BoxStacking.runtimeconfig.json
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\bin\Debug\net6.0\BoxStacking.dll
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\bin\Debug\net6.0\BoxStacking.pdb
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.dll
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\refint\BoxStacking.dll
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.pdb
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\BoxStacking.genruntimeconfig.cache
+C:\Users\Kelly\source\repos\BoxStacking\BoxStacking\obj\Debug\net6.0\ref\BoxStacking.dll
